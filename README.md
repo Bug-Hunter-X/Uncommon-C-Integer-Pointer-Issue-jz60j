@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates an uncommon integer pointer issue. The program initializes an integer variable `x` to 10, creates a pointer `ptr` to `x`, and then modifies the value pointed to by `ptr`. The unexpected behavior is that the value of `x` is changed through the pointer.
